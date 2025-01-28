@@ -1,10 +1,10 @@
-.. CI Course Start documentation master file, created by
-   sphinx-quickstart on Tue Jan 28 15:17:41 2025.
+.. Siva CI Course documentation master file, created by
+   sphinx-quickstart on Tue Jan 28 15:29:39 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CI Course Start documentation
-=============================
+Siva CI Course documentation
+============================
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_

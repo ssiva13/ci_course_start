@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CI Course Start'
-copyright = '2025, Simon Siva'
-author = 'Simon Siva'
+project = 'Siva CI Course'
+copyright = '2025, Siva'
+author = 'Siva'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
